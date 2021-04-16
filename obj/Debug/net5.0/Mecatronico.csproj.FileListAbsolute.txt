@@ -1,0 +1,16 @@
+C:\Users\Gabriel L.S\Documents\GitHub\Mecatronico\bin\Debug\net5.0\Mecatronico.exe
+C:\Users\Gabriel L.S\Documents\GitHub\Mecatronico\bin\Debug\net5.0\Mecatronico.deps.json
+C:\Users\Gabriel L.S\Documents\GitHub\Mecatronico\bin\Debug\net5.0\Mecatronico.runtimeconfig.json
+C:\Users\Gabriel L.S\Documents\GitHub\Mecatronico\bin\Debug\net5.0\Mecatronico.runtimeconfig.dev.json
+C:\Users\Gabriel L.S\Documents\GitHub\Mecatronico\bin\Debug\net5.0\Mecatronico.dll
+C:\Users\Gabriel L.S\Documents\GitHub\Mecatronico\bin\Debug\net5.0\ref\Mecatronico.dll
+C:\Users\Gabriel L.S\Documents\GitHub\Mecatronico\bin\Debug\net5.0\Mecatronico.pdb
+C:\Users\Gabriel L.S\Documents\GitHub\Mecatronico\obj\Debug\net5.0\Mecatronico.csprojAssemblyReference.cache
+C:\Users\Gabriel L.S\Documents\GitHub\Mecatronico\obj\Debug\net5.0\Mecatronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel L.S\Documents\GitHub\Mecatronico\obj\Debug\net5.0\Mecatronico.AssemblyInfoInputs.cache
+C:\Users\Gabriel L.S\Documents\GitHub\Mecatronico\obj\Debug\net5.0\Mecatronico.AssemblyInfo.cs
+C:\Users\Gabriel L.S\Documents\GitHub\Mecatronico\obj\Debug\net5.0\Mecatronico.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel L.S\Documents\GitHub\Mecatronico\obj\Debug\net5.0\Mecatronico.dll
+C:\Users\Gabriel L.S\Documents\GitHub\Mecatronico\obj\Debug\net5.0\ref\Mecatronico.dll
+C:\Users\Gabriel L.S\Documents\GitHub\Mecatronico\obj\Debug\net5.0\Mecatronico.pdb
+C:\Users\Gabriel L.S\Documents\GitHub\Mecatronico\obj\Debug\net5.0\Mecatronico.genruntimeconfig.cache
